@@ -1,0 +1,11 @@
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\bin\Debug\netcoreapp2.0\ExercisesAPI.deps.json
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\bin\Debug\netcoreapp2.0\ExercisesAPI.runtimeconfig.json
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\bin\Debug\netcoreapp2.0\ExercisesAPI.runtimeconfig.dev.json
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\bin\Debug\netcoreapp2.0\ExercisesAPI.dll
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\bin\Debug\netcoreapp2.0\ExercisesAPI.pdb
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\obj\Debug\netcoreapp2.0\ExercisesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\obj\Debug\netcoreapp2.0\ExercisesAPI.AssemblyInfoInputs.cache
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\obj\Debug\netcoreapp2.0\ExercisesAPI.AssemblyInfo.cs
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\obj\Debug\netcoreapp2.0\ExercisesAPI.dll
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\obj\Debug\netcoreapp2.0\ExercisesAPI.pdb
+C:\Users\Raunak\Desktop\Web Dev\ExercisesAPI\ExercisesAPI\obj\Debug\netcoreapp2.0\ExercisesAPI.csprojAssemblyReference.cache
